@@ -1,4 +1,4 @@
-# LA-1400-demo
+# LA-1400-Hütchenspiel
 
 # Hütchenspiel
 
